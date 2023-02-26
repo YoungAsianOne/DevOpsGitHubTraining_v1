@@ -1,3 +1,4 @@
 this is sample file 2
 commit revert commit 1
 This is section 5 test part 2
+This is stash lecture, change in file 2
